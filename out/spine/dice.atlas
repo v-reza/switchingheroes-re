@@ -1,0 +1,17 @@
+dice.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.4
+1
+bounds:85,2,81,81
+2
+bounds:85,85,81,81
+3
+bounds:85,168,81,81
+4
+bounds:2,2,81,81
+5
+bounds:2,85,81,81
+6
+bounds:2,168,81,81

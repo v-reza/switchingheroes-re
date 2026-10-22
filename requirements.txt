@@ -1,0 +1,18 @@
+# Dependencies for SwitchingHeroes-RE extraction and analysis
+
+# Python pipeline (Unity asset extraction & atlas validation)
+UnityPy==1.25.4
+pillow==13.0.0
+numpy==2.4.6
+lz4==4.4.5
+brotli==1.2.0
+fsspec==2026.9.0
+etcpak==0.9.15
+texture2ddecoder==1.0.6
+astc_encoder_py==0.1.12
+fmod_toolkit==0.1.3
+pyfmodex==0.7.2
+spinepy==0.0.3
+
+# Node tooling (tooling/package.json):
+# @esotericsoftware/spine-core@4.1

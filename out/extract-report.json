@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "texture2d": 1069,
+    "texture_fail": 3,
+    "audio": 266,
+    "audio_fail": 0,
+    "textasset": 265,
+    "textasset_fail": 0
+  },
+  "elapsed_s": 69.5,
+  "fail_count": 3,
+  "fail_sample": [
+    [
+      "Texture2D",
+      "Font Texture",
+      "PermissionError(13, 'Permission denied')"
+    ],
+    [
+      "Texture2D",
+      "Font Texture",
+      "PermissionError(13, 'Permission denied')"
+    ],
+    [
+      "Texture2D",
+      "Font Texture",
+      "PermissionError(13, 'Permission denied')"
+    ]
+  ]
+}

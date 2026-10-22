@@ -1,0 +1,17 @@
+# Upstream raw binaries (tracked in v-reza/switchingheroes-raw)
+*.xapk
+xapk/
+ext/
+
+# Virtual environments & caches
+.venv/
+__pycache__/
+*.pyc
+
+# Node dependencies
+tooling/node_modules/
+
+# OS metadata
+Thumbs.db
+desktop.ini
+.DS_Store

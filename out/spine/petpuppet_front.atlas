@@ -1,0 +1,17 @@
+petpuppet_front.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.37
+cage_1
+bounds:2,21,197,233
+offsets:0,0,205,233
+hand_R_1
+bounds:180,201,41,53
+hand_R_2
+bounds:152,2,42,53
+hand_R_3
+bounds:185,57,40,50
+hand_R_4
+bounds:2,11,40,63
+rotate:90
